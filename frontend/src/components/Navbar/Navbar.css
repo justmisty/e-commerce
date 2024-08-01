@@ -6,7 +6,8 @@
 }
 
 .navbar .logo {
-  width: 150px;
+  width: 170px;
+  cursor: pointer;
 }
 
 .navbar li {
@@ -55,8 +56,9 @@
   position: absolute;
   min-width: 10px;
   min-height: 10px;
-  background: tomato;
+  background: #ff6347;
   border-radius: 5px;
   top: -8px;
   right: -8px;
 }
+
